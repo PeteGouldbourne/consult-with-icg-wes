@@ -2,7 +2,7 @@
 
 copyright:
   years: 2018
-lastupdated: "2018-10-03"
+lastupdated: "2018-11-02"
 
 ---
 
@@ -31,15 +31,15 @@ Select the Consult with {{site.data.keyword.cloud_notm}} Garage service from the
 ## Step 2. Select a pricing plan
 {: #pricing}
 
-From the Pricing Plans list, select the consulting service that you want to order. You have an opportunity to review the order in a later step. Select _Create_.
+From the Pricing Plans list, select the consulting service that you want to order. You have an opportunity to review the order in a later step. Select _Configure_.
 
 ## Step 3. Choose a location and a payment option
 {: #location_payment}
 
-For {{site.data.keyword.cloud_notm}} Garage services, select a Garage location from the list.
+For {{site.data.keyword.cloud_notm}} Garage services, select an IBM Garage location from the list.
 
 Choose one of two payment options:
-* **Use subscription credits**. Select this option to pay for the consulting service with your {{site.data.keyword.cloud_notm}} subscription credits.
+* **Bill IBM Cloud Account**. Select this option to pay for the consulting service with your {{site.data.keyword.cloud_notm}} account and subscription credits.
 * **Send me a quote**. Alternatively, the sales team can send you a quote for the consulting engagement.
 
 ## Step 4. Enter your contact information and additional details
