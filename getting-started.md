@@ -26,7 +26,7 @@ The [{{site.data.keyword.cloud_notm}} Garage](http://www.ibm.com/cloud/garage/){
 ## Step 1. Start the Consult with {{site.data.keyword.cloud_notm}} Garage service
 {: #launch}
 
-Open (https://ibm.biz/garageservices) to launch the Consult with {{site.data.keyword.cloud_notm}} Garage service.
+Open https://ibm.biz/garageservices to launch the Consult with {{site.data.keyword.cloud_notm}} Garage service.
 
 ## Step 2. Select a pricing plan
 {: #pricing}
