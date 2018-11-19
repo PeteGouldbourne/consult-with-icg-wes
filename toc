@@ -4,7 +4,7 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="consult-with-icg-wes" audience="service" href="/docs/services/consult-with-icg-wes/getting-started.html"}
+{: .toc subcollection="consult-with-icg-wes" audience="service" arm="4162211" href="/docs/services/consult-with-icg-wes/getting-started.html"}
 Consult with IBM Cloud Garage
 
     {: .navgroup id="learn"}
