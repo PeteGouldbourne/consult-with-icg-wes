@@ -15,5 +15,6 @@ Consult with IBM Cloud Garage
 
     {: .navgroup id="help"}
     support.md
+    troubleshoot.md
     faq.md
     {: .navgroup-end}
