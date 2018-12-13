@@ -1,10 +1,7 @@
-<!-- cloud-consulting documentation -->
-<!-- toc - table of contents left navigation bar for sub-collection -->
-
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="consult-with-icg-wes" audience="service" href="/docs/services/consult-with-icg-wes/getting-started.html"}
+{: .toc subcollection="consult-with-icg-wes" audience="service" href="/docs/services/consult-with-icg-wes/getting-started.html" path="consult-with-icg-wes"}
 Consult with IBM Cloud Garage
 
     {: .navgroup id="learn"}
