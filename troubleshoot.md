@@ -28,7 +28,7 @@ To solve this issue, have your {{site.data.keyword.cloud}} account administrator
 
 #### Step 1. Open the Identity and Access Management (IAM) permissions of the user account
 
-1. Log in with the {{site.data.keyword.cloud}} user administrator account.
+1. Log in with your {{site.data.keyword.cloud}} administrator account.
 2. Select **Manage > Account > Users**.
 3. Select the user account.
 4. Select the menu bar to the right of the account name.  Select **Assign Access**.
