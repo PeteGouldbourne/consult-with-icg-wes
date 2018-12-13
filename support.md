@@ -2,7 +2,7 @@
 
 copyright:
   years: 2018
-lastupdated: "2018-11-02"
+lastupdated: "2018-12-13"
 
 ---
 
@@ -20,6 +20,6 @@ Do you have problems or questions about the Consult with {{site.data.keyword.clo
 
 * You can review the forums to see whether other users ran into the same problem. Tag your question in the forum so that it is seen by the {{site.data.keyword.cloud_notm}} teams.
 <!--Insert the appropriate dW Answers tag for your service for <service_keyword> in URL below:  -->
-  * For questions about the service and getting started instructions, use the [IBM Developer dW Answers](https://developer.ibm.com/answers/topics/cloud-consulting/?smartspace=bluemix){:new_window} forum. Include the  "consult-with-icg-wes" and "ibm cloud" tags.
+  * For questions about the service and getting started instructions, use the [IBM Developer dW Answers](https://developer.ibm.com/answers/topics/consult-with-ibm/?smartspace=bluemix){:new_window} forum. Include the  "consult-with-icg-wes" and "ibm cloud" tags.
 
 * If you still can't resolve the problem, you can open an IBM support ticket. For more information, see [Contacting support](https://www.{DomainName}/docs/support/index.html#contacting-support).
