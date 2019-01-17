@@ -42,10 +42,10 @@ From the Pricing Plans list, select the consulting service that you want to orde
 For {{site.data.keyword.cloud_notm}} Garage services, select an IBM Garage location from the list.
 
 Choose one of two payment options:
-* **Bill IBM Cloud Account**. Select this option to pay for the consulting service with your {{site.data.keyword.cloud_notm}} subscription credits. Your account will be billed after the delivery of services.
+* **Bill IBM Cloud Account**. Select this option to pay for the consulting service with your {{site.data.keyword.cloud_notm}} account. Your account will be billed after the delivery of services.
 * **Send me a quote**. Alternatively, the sales team can send you a quote for the consulting engagement.
 
-If you choose **Bill IBM Cloud Account**, the Garage or Watson services must be delivered **before** your {{site.data.keyword.cloud_notm}} subscription expires.
+If you choose **Bill IBM Cloud Account** and you have an {{site.data.keyword.cloud_notm}} subscription, the Garage or Watson services must be delivered **before** your {{site.data.keyword.cloud_notm}} subscription expires.
 {: tip}
 
 ## Step 4. Enter your contact information and additional details
