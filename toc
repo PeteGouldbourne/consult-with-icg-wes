@@ -1,10 +1,7 @@
-<!-- cloud-consulting documentation -->
-<!-- toc - table of contents left navigation bar for sub-collection -->
-
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="consult-with-icg-wes" audience="service" href="/docs/services/consult-with-icg-wes/getting-started.html"}
+{: .toc subcollection="consult-with-icg-wes" service-name="Consult with IBM Cloud Garage" audience="service" arm="4162211" href="/docs/services/consult-with-icg-wes/getting-started.html" path="services/consult-with-icg-wes"}
 Consult with IBM Cloud Garage
 
     {: .navgroup id="learn"}
@@ -13,10 +10,11 @@ Consult with IBM Cloud Garage
     {: .topicgroup}
     Related links
         [What is the IBM Cloud Garage?](https://www.ibm.com/cloud/garage/services/what-is-the-cloud-garage){: new_window}
-        [IBM Cloud Garage Method](http://www.ibm.com/cloud/garage/){: new_window}
+        [IBM Cloud Innovate method](https://www.ibm.com/cloud/garage/category/practices){: new_window}
     {: .navgroup-end}
 
     {: .navgroup id="help"}
     support.md
+    troubleshoot.md
     faq.md
     {: .navgroup-end}
