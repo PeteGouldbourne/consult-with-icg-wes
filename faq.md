@@ -27,6 +27,11 @@ Depending on the type of consulting service that you select, IBM delivers the se
 
 Select *View Terms* from the pricing page to review the service description of the consulting service.
 
+## What should I consider if my {{site.data.keyword.cloud_notm}} subscription is expiring soon?
+{: #faq-subscription-timing}
+
+If you are purchasing a consulting engagement with an {{site.data.keyword.cloud_notm}} subscription, IBM must start and complete the delivery of services before your subscription expires.  For example, if you plan to start a one-week Garage workshop in two weeks, your {{site.data.keyword.cloud_notm}} subscription cannot expire in the next three weeks.  
+
 ## When will I be billed for the consulting service?
 {: #faq-billing}
 
