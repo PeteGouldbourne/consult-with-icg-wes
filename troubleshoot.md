@@ -2,7 +2,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-02-11"
+lastupdated: "2019-08-09"
 
 ---
 
@@ -16,7 +16,7 @@ lastupdated: "2019-02-11"
 
 ## Insufficient permission to submit an order
 {: #permission}
-Follow these steps if you do not have the required permissions to submit an order in the **Consult with IBM Cloud Garage** service.
+Follow these steps if you do not have the required permissions to submit an order in the **Consult with IBM Garage** service.
 
 ### What's happening
 {: #permission-symptom}
@@ -30,7 +30,7 @@ Your {{site.data.keyword.cloud}} user account must have the IAM Editor or higher
 ### How to fix it
 {: #permission-solution}
 
-To solve this issue, have your {{site.data.keyword.cloud}} account administrator set your user account to the "editor" or "administrator" role for the "Consult with IBM Cloud Garage" service.
+To solve this issue, have your {{site.data.keyword.cloud}} account administrator set your user account to the "editor" or "administrator" role for the "Consult with IBM Garage" service.
 
 #### Step 1. Open the Identity and Access Management (IAM) permissions of the user account
 {: #permission-step1}
@@ -44,12 +44,12 @@ To solve this issue, have your {{site.data.keyword.cloud}} account administrator
 {: #permission-step2}
 
 1. In the "Choose access type" page, select **Assign access to resources**.
-2. Select **Consult with IBM Cloud Garage** in the "Service" menu.
+2. Select **Consult with IBM Garage** in the "Service" menu.
 
 3. In the "Assign platform access role", select **Administrator**.
 
 ![Assign administrator role for resource](images/assign-platform-access-role.png "Assign platform access roles") Figure 3. Assign administrator role for resource
 
-4. Confirm that the user has the "Administrator" role for "All Consult with IBM Cloud Garage resources".
+4. Confirm that the user has the "Administrator" role for "All Consult with IBM Garage resources".
 
-![Select administrator role for all Consult with IBM Cloud Garage resources](images/result-administrator-access.png "Administrator access to service") Figure 4. Select administrator role for all Consult with IBM Cloud Garage resources
+![Select administrator role for all Consult with IBM Garage resources](images/result-administrator-access.png "Administrator access to service") Figure 4. Select administrator role for all Consult with IBM Garage resources
