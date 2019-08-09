@@ -20,6 +20,6 @@ Do you have problems or questions about the Consult with {{site.data.keyword.IBM
 
 * You can review the forums to see whether other users ran into the same problem. Tag your question in the forum so that it is seen by the {{site.data.keyword.IBM_notm}} teams.
 <!--Insert the appropriate dW Answers tag for your service for <service_keyword> in URL below:  -->
-  * For questions about the service and getting started instructions, use the [IBM Developer Answers](https://developer.ibm.com/answers/smartspace/bluemix/index.html){:new_window} forum. Include the  "consult-with-icg-wes" and "ibm cloud platform" tags.
+  * For questions about the service and getting started instructions, use the [IBM Developer Answers](https://developer.ibm.com/answers/smartspace/bluemix/index.html){:new_window} forum. Include the  "consult-with-ibm-garage" and "ibm cloud platform" tags.
 
 * If you still can't resolve the problem, you can open an IBM support ticket. For more information, see [Contacting support](/docs/support/index.html#contacting-support).
