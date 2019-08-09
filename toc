@@ -2,15 +2,15 @@
 {:topicgroup: .topicgroup}
 
 {: .toc subcollection="consult-with-icg-wes" category="app_services" audience="service" arm="4162211" href="/docs/services/consult-with-icg-wes/getting-started.html" path="services/consult-with-icg-wes"}
-Consult with IBM Cloud Garage
+Consult with IBM Garage
 
     {: .navgroup id="learn"}
     getting-started.md
         
     {: .topicgroup}
     Related links
-        [What is the IBM Cloud Garage?](https://www.ibm.com/cloud/garage/services/what-is-the-cloud-garage){: new_window}
-        [IBM Cloud Innovate method](https://www.ibm.com/cloud/garage/category/practices){: new_window}
+        [What is the IBM Garage?](https://www.ibm.com/cloud/garage/services/what-is-the-cloud-garage){: new_window}
+        [IBM Garage Method for Cloud](https://www.ibm.com/cloud/garage/method/cloud/){: new_window}
     {: .navgroup-end}
 
     {: .navgroup id="help"}
