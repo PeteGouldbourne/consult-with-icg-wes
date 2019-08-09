@@ -2,7 +2,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-02-11"
+lastupdated: "2019-08-09"
 
 ---
 
@@ -21,21 +21,21 @@ lastupdated: "2019-02-11"
 # Getting started tutorial
 {: #getting-started-tutorial}
 
-In this Consult with {{site.data.keyword.cloud}} Garage getting started tutorial, you schedule and purchase consulting services from the {{site.data.keyword.cloud_notm}} catalog.
+In this Consult with {{site.data.keyword.IBM}} Garage getting started tutorial, you schedule and purchase consulting services from the {{site.data.keyword.cloud_notm}} catalog.
 {: shortdesc}
 
-The [{{site.data.keyword.cloud_notm}} Garage](http://www.ibm.com/cloud/garage/){: new_window} is IBM's consultancy with a startup DNA. Learn more about how to transform your organization by delivering solutions on the cloud quickly with the {{site.data.keyword.cloud_notm}} Innovate method.
+The [{{site.data.keyword.IBM_notm}} Garage](http://www.ibm.com/cloud/garage/){: new_window} is IBM's consultancy with a startup DNA. Learn more about how to transform your organization by delivering solutions on the cloud quickly with the {{site.data.keyword.IBM_notm}} Garage Method.
 {: tip}
 
-See this 3 minute video to learn how to submit your {{site.data.keyword.cloud_notm}} Garage or Watson Expert Services order.
+See this 3 minute video to learn how to submit your {{site.data.keyword.IBM_notm}} Garage or Watson Expert Services order.
 
-<iframe class="embed-responsive-item" id="youtubeplayer" title="Consult with IBM Cloud Garage demo" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/CWRsJ10Nnpc" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe class="embed-responsive-item" id="youtubeplayer" title="Consult with IBM Garage demo" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/CWRsJ10Nnpc" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
-## Step 1. Start the Consult with {{site.data.keyword.cloud_notm}} Garage service
+## Step 1. Start the Consult with {{site.data.keyword.IBM_notm}} Garage service
 {: #tutorial-start}
 
-Open https://ibm.biz/garageservices to launch the Consult with {{site.data.keyword.cloud_notm}} Garage service.
+Open https://ibm.biz/garageservices to launch the Consult with {{site.data.keyword.IBM_notm}} Garage service.
 
 ## Step 2. Select a pricing plan
 {: #tutorial-pricing}
@@ -45,7 +45,7 @@ From the Pricing Plans list, select the consulting service that you want to orde
 ## Step 3. Choose a location and a payment option
 {: #tutorial-location-payment}
 
-For {{site.data.keyword.cloud_notm}} Garage services, select an IBM Garage location from the list.
+For {{site.data.keyword.IBM_notm}} Garage services, select an IBM Garage location from the list.
 
 Choose one of two payment options:
 * **Bill IBM Cloud Account**. Select this option to pay for the consulting service with your {{site.data.keyword.cloud_notm}} account and subscription credits.
