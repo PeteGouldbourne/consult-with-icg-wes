@@ -35,7 +35,7 @@ See this 3 minute video to learn how to submit your {{site.data.keyword.IBM_notm
 ## Step 1. Start the Consult with {{site.data.keyword.IBM_notm}} Garage service
 {: #tutorial-start}
 
-Open https://ibm.biz/garageservices to launch the Consult with {{site.data.keyword.IBM_notm}} Garage service.
+Open https://cloud.ibm.com/catalog/services/consult-with-ibm-garage to launch the Consult with {{site.data.keyword.IBM_notm}} Garage service.
 
 ## Step 2. Select a pricing plan
 {: #tutorial-pricing}
