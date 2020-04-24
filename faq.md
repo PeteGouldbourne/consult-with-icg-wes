@@ -25,7 +25,7 @@ Depending on the type of consulting service that you select, IBM may deliver the
 ## Where can I find more information about these services?
 {: #faq-terms}
 
-Select the *Terms* link found on the *About* tab from the service configuration page to review the terms for each of the consulting services.
+Select the *Terms* link found on the *About* tab on the service configuration page to review the terms for each of the consulting services.
 
 ## What should I consider if my {{site.data.keyword.IBM_notm}} subscription will expire soon?
 {: #faq-subscription-timing}
