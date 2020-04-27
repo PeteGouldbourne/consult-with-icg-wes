@@ -2,7 +2,7 @@
 
 copyright:
   years: 2018, 2019, 2020
-lastupdated: "2020-04-24"
+lastupdated: "2020-04-27"
 
 ---
 
@@ -30,12 +30,12 @@ Select the *Terms* link found on the *About* tab on the service configuration pa
 ## What should I consider if my {{site.data.keyword.IBM_notm}} subscription will expire soon?
 {: #faq-subscription-timing}
 
-IBM must start and complete the delivery of services before your subscription expires.  If, for example, you plan to start a one-week Garage workshop in two weeks and your IBM {{site.data.keyword.cloud_notm}} subscription expires within the next three weeks, you may consider renewing your subscription.  Contact us via https://www.ibm.com/cloud or your IBM {{site.data.keyword.cloud_notm}} sales representative for options to renew your subscription.
+IBM must start and complete the delivery of services before your subscription expires.  If, for example, you plan to start a one-week Garage workshop in two weeks and your {{site.data.keyword.cloud_notm}} subscription expires within the next three weeks, you may consider renewing your subscription.  Contact us via https://www.ibm.com/cloud or your {{site.data.keyword.cloud_notm}} sales representative for options to renew your subscription.
 
 ## When will I be billed for the consulting service?
 {: #faq-billing}
 
-Your {{site.data.keyword.IBM_notm}} {{site.data.keyword.cloud_notm}} account will be billed after the completion of services.
+Your {{site.data.keyword.cloud_notm}} account will be billed after the completion of services.
 
 ## Will I have an opportunity to review the details and logistics of the consulting services that I ordered?
 {: #faq-review}
