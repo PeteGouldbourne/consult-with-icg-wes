@@ -20,7 +20,7 @@ Follow these steps if you do not have the required permissions to submit an orde
 
 ### What's happening
 {: #permission-symptom}
-When you select *Submit Order* in the details page, you receive an error message that states you do not have the required permission to create an instance.
+When you view the *Configure your resource* area or  select *Submit Order* in the details page, you receive an error message that states you do not have the required permission to create an instance.
 
 ### Why it's happening
 {: #permission-cause}
